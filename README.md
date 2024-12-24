@@ -75,6 +75,14 @@ final_project_signal/
 
 ## Logbook Mingguan
 
+| Minggu | Tanggal         | Aktivitas                                                    |
+| ------ | --------------- | ------------------------------------------------------------ |
+| 1      | 21 Nov - 27 Nov | Review spesifikasi UAS DSP                                   |
+| 2      | 28 Nov - 04 Des | Review Materi pembelajaran DSP dan Teknologi Multimedia      |
+| 3      | 05 Des - 11 Des | Review Materi pembelajaran DSP dan Teknologi Multimedia      |
+| 4      | 12 Des - 18 Des | Melakukan self-brainstorming untuk mencari ide tubes DSP     |
+| 5      | 19 Des - 24 Des | Eksekusi coding dan membuat laporan serta penyelesaian akhir |
+
 ## Kontributor
 
 - **Nama**: Hafiz Amrullah
