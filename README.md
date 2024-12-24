@@ -23,7 +23,8 @@ dan detak jantung tanpa kontak.
 - Python 3.7 atau lebih baru
 - Webcam yang berfungsi
 
-<!-- ### Langkah Instalasi
+### Langkah Instalasi
+
 1. Clone repository ini:
    ```bash
    git clone https://github.com/hafiz-dev1/TUBES-DSP.git
@@ -43,7 +44,7 @@ dan detak jantung tanpa kontak.
    pip install -r requirements.txt
    ```
 
---- -->
+---
 
 ## Cara Penggunaan
 
